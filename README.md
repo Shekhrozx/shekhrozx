@@ -7,7 +7,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhrozx&layout=compact&theme=tokyonight)
 -->
 ![Status](https://github-readme-streak-stats.herokuapp.com/?user=Shekhrozx&theme=tokyonight)
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shekhrozx&show_icons=true&theme=gotham" alt="Shekhrozx" />
 
 <!--
