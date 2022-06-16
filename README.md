@@ -1,5 +1,7 @@
-### Software engineer 
-
+</br>
+### Software engineer & Ph.D. in Engineering 
+<hr>
+</br>
 
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=shekhrozx&theme=highcontrast&show_icons=true&count_private=true)
