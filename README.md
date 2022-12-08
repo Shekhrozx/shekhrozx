@@ -13,7 +13,7 @@
 |![Status](https://github-readme-streak-stats.herokuapp.com/?user=Shekhrozx&theme=gotham)|<img src="https://github-readme-stats.vercel.app/api?username=Shekhrozx&show_icons=true&theme=gotham" alt="Shekhrozx" />|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=shekhrozx&theme=gotham)
+![](https://github-readme-activity-graph.cyclic.app/graph/?username=shekhrozx&bg_color=0c1014&color=2aa788&line=2aa788&point=FFFFFF&hide_border=true)
 
 
 
