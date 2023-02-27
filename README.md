@@ -1,6 +1,6 @@
 </br>
 
-### Software engineer & Ph.D. in Engineering 
+### Software engineer & Ph.D. 
 <hr>
 </br>
 
