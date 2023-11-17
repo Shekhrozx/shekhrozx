@@ -5,9 +5,6 @@ Passionate Python developer with a knack for turning ideas into efficient and sc
 ### 💻 Python Backend Engineering
 I specialize in crafting robust and high-performance backend systems using Python. From designing APIs to optimizing database queries, I thrive on building the backbone of applications that stand the test of time.
 
-### 🖥️ Python Desktop Application Development
-User-friendly desktop applications are my forte. I enjoy creating intuitive interfaces and seamless experiences using Python, ensuring every click is a step towards enhanced productivity.
-
 ### 🤖 ML DevOps
 Bringing machine learning models to life requires more than just code. I excel in implementing ML DevOps practices, seamlessly integrating models into production environments, and ensuring they perform at their best.
 
