@@ -1,9 +1,28 @@
-</br>
+## 👋 Hello, I'm Bryan,
 
-### Software engineer & Ph.D. 
+Passionate Python developer with a knack for turning ideas into efficient and scalable solutions. My expertise spans across various domains, making me a versatile engineer capable of tackling diverse challenges. Here's a glimpse into what I bring to the table:
+
+### 💻 Python Backend Engineering
+I specialize in crafting robust and high-performance backend systems using Python. From designing APIs to optimizing database queries, I thrive on building the backbone of applications that stand the test of time.
+
+### 🖥️ Python Desktop Application Development
+User-friendly desktop applications are my forte. I enjoy creating intuitive interfaces and seamless experiences using Python, ensuring every click is a step towards enhanced productivity.
+
+### 🤖 ML DevOps
+Bringing machine learning models to life requires more than just code. I excel in implementing ML DevOps practices, seamlessly integrating models into production environments, and ensuring they perform at their best.
+
+### 🚀 CI/CD Enthusiast
+Automation is key to efficiency. I'm well-versed in setting up Continuous Integration and Continuous Deployment pipelines, ensuring rapid and reliable software delivery.
+
+### 🌐 Open Source Advocate
+Believer in the power of community collaboration. I actively contribute to open-source projects and am committed to sharing knowledge to foster a thriving developer ecosystem.
+
+### 📈 Always Learning
+I stay ahead in the ever-evolving tech landscape by continuously learning and experimenting with new tools and technologies. My goal is to push the boundaries of what's possible with Python.
+
+Let's connect and build something amazing together! 🚀
+
 <hr>
-</br>
-
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=shekhrozx&theme=highcontrast&show_icons=true&count_private=true)
 
@@ -14,22 +33,5 @@
 |-|-|
 
 ![](https://github-readme-activity-graph.cyclic.app/graph/?username=shekhrozx&bg_color=0c1014&color=2aa788&line=2aa788&point=FFFFFF&hide_border=true)
-
-
-
-<!--
-**Shekhrozx/shekhrozx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
 
 ![](https://komarev.com/ghpvc/?username=shekhrozx&color=blue)
