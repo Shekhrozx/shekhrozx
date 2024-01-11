@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Bryan,
+## 👋 Hello, I'm Shekhroz (Bryan),
 
 Passionate Python developer with a knack for turning ideas into efficient and scalable solutions. My expertise spans across various domains, making me a versatile engineer capable of tackling diverse challenges. Here's a glimpse into what I bring to the table:
 
