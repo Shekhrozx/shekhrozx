@@ -19,6 +19,8 @@ I stay ahead in the ever-evolving tech landscape by continuously learning and ex
 
 Let's connect and build something amazing together! 🚀
 
+📧 shekhrozx.work@gmail.com
+
 <hr>
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=shekhrozx&theme=highcontrast&show_icons=true&count_private=true)
