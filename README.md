@@ -41,7 +41,7 @@ I design and build reliable backend systems and APIs with Python and Go. My work
 
 ## Experience
 
-### Sr. Software Engineer & Tech Lead, SISTech-AI, Co.
+### Sr. Software Engineer & Tech Lead, SISTech-AI.
 Seoul, South Korea | Sep. 2021 – Present
 
 - Develop backend applications and APIs in Python and Go for AI projects.
