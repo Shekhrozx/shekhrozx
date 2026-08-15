@@ -9,7 +9,7 @@ I'm passionate about building clean, reliable software with Python and Go—scal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhrozx)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shekhrozx@gmail.com)
-[![Website](https://img.shields.io/badge/Website-%23229922.svg?logo=internet-explorer&logoColor=white)](https://shekhrozx.me)
+[![Website](https://img.shields.io/badge/Website-%23228822.svg?logo=internet-explorer&logoColor=white)](https://shekhrozx.me)
 
 ## Core Strengths
 
