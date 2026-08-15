@@ -41,11 +41,3 @@ I'm passionate about building clean, reliable software with Python and Go—scal
 - M.Sc. in Software Engineering, Tashkent University of Information Technologies, Uzbekistan
 - B.Sc. in Computer Science, Tashkent University of Information Technologies, Uzbekistan
 
-## Research
-
-Published research on deep learning, 3D data, computer vision, infrastructure monitoring, and safety analysis.
-
-## Languages
-
-English (advanced) · Russian (advanced) · Uzbek (native)
-
