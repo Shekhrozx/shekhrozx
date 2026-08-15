@@ -50,12 +50,16 @@ Seoul, South Korea | Sep. 2021 – Present
 - Led the team to achieve 100% on-time deployments, the first such result in the organization.
 - Lead software development projects and guide collaboration from architecture through maintenance.
 
+---
+
 ### Co-Founder & CTO, WebTech-Kr
 Seoul, South Korea | Nov. 2021 – Jan. 2024
 
 - Co-founded WebTech-Kr and provided technical leadership for web and mobile software solutions.
 - Set technical direction and oversaw planning, development, and delivery as CTO.
 - Managed technical challenges and guided engineering decisions throughout the software lifecycle.
+
+---
 
 ### Sr. Software Engineer, Deltoid
 Seoul, South Korea | Mar. 2019 – Dec. 2021
@@ -70,12 +74,16 @@ Seoul, South Korea | Mar. 2019 – Dec. 2021
 - Developed medication schedules, reminders, dose tracking, and daily medication management.
 - Managed the software from initial development through delivery and ongoing improvements.
 
+---
+
 ### Software Engineer / R&D, Sejong University
 Seoul, South Korea | Sep. 2016 – Aug. 2021
 
 - Developed software and AI solutions for complex research domains.
 - Revitalized stalled projects by introducing new approaches and technologies.
 - Explored methods for efficient data collection, observation, and analysis.
+
+---
 
 ### Software Engineer, The Ministry of Digital Technologies
 Uzbekistan | Sep. 2012 – Aug. 2013
