@@ -1,10 +1,15 @@
 
-# Shekhroz Khudoyarov (Bryan)
+# About Me:
 
-Backend engineer and tech lead based in Seoul, South Korea. I build reliable APIs, distributed services, and cloud-ready systems with Python and Go.
+Hi! I'm Shekhroz Khudoyarov (or just Bryan), a backend engineer based in Seoul, South Korea.
+
+I'm passionate about building clean, reliable software with Python and Go—scalable APIs, cloud infrastructure, and AI solutions. I love solving hard problems and collaborating with talented engineers. Always curious about new tech and excited to connect!
+
+💬 **Always up for:** technical discussions and collaboration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhrozx)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shekhrozx@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%23229922.svg?logo=internet-explorer&logoColor=white)](https://shekhrozx.me)
 
 ## Core Strengths
 
@@ -19,15 +24,15 @@ Backend engineer and tech lead based in Seoul, South Korea. I build reliable API
 
 ## Experience
 
-- **Sr. Software Engineer & Tech Lead, SISTech-AI** | Seoul | 2021–Present  
+- **Sr. Software Engineer & Tech Lead, SISTech-AI** | Seoul | 2021–Present
 	Build Python and Go backends for AI projects and lead delivery, architecture, and engineering practices.
-- **Co-Founder & CTO, WebTech-Kr** | Seoul | 2021–2024  
+- **Co-Founder & CTO, WebTech-Kr** | Seoul | 2021–2024
 	Set technical direction and led development of web and mobile software solutions.
-- **Sr. Software Engineer, Deltoid** | Seoul | 2019–2021  
+- **Sr. Software Engineer, Deltoid** | Seoul | 2019–2021
 	Built and improved healthcare platforms for exercise, rehabilitation, and medication management.
-- **Software Engineer / R&D, Sejong University** | Seoul | 2016–2021  
+- **Software Engineer / R&D, Sejong University** | Seoul | 2016–2021
 	Developed AI and data-processing systems for research applications.
-- **Software Engineer, Ministry of Digital Technologies** | Uzbekistan | 2012–2013  
+- **Software Engineer, Ministry of Digital Technologies** | Uzbekistan | 2012–2013
 	Contributed to digital government infrastructure and e-GOV services.
 
 ## Education
